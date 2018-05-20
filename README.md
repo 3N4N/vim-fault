@@ -9,7 +9,7 @@ dreamt of but never quite found in any other colorschemes. Then you started to
 add bits of `highlight bla bla bla` in your vimrc. Well, you can, in exchange,
 built your very own colorscheme.
 
-Would you settle with others' mistress? Then don't settle with others'
+Would you settle with other's mistress? Then don't settle with other's
 colorscheme. (Unless, she/it is absolutely one of a kind)
 
 ## So, how do you get around building yourself one?
