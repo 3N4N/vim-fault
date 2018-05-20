@@ -14,8 +14,9 @@ colorscheme. (Unless, she/it is absolutely one of a kind)
 
 ## So, how do you get around building yourself one?
 
-  - Don't plug this in your vimrc.
-  - Go to `/usr/share/nvim/runtime/colors/` and find the one you somewhat like.
-  - Start customizing the hell out of it.
-  - There, you built yourself a colorscheme.
+  1. First, don't plug this in your vimrc.
+  2. Go to `/usr/share/nvim/runtime/colors/`
+  3. Find a colorscheme you somewhat like.
+  4. Start customizing the hell out of it.
+  5. There, you built yourself a colorscheme.
 
