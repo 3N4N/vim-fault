@@ -62,3 +62,8 @@ hi def hlLevel6 ctermfg=yellow      guifg=yellow1
 hi def hlLevel7 ctermfg=green       guifg=orange1
 hi def hlLevel8 ctermfg=cyan        guifg=greenyellow
 hi def hlLevel9 ctermfg=magenta     guifg=cyan1
+
+" gitgutter signs
+hi GitGutterAdd     cterm=NONE  ctermbg=NONE  ctermfg=green   gui=NONE  guibg=NONE  guifg=lightgreen
+hi GitGutterChange  cterm=NONE  ctermbg=NONE  ctermfg=yellow  gui=NONE  guibg=NONE  guifg=yellow
+hi GitGutterDelete  cterm=NONE  ctermbg=NONE  ctermfg=red     gui=NONE  guibg=NONE  guifg=#df5f5f
