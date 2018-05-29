@@ -30,10 +30,10 @@ hi ModeMsg      cterm=NONE        ctermbg=NONE       ctermfg=green       gui=NON
 hi MoreMsg      cterm=NONE        ctermbg=NONE       ctermfg=DarkGreen   gui=NONE guibg=NONE      guifg=SeaGreen
 hi NonText      cterm=NONE        ctermbg=NONE       ctermfg=238         gui=NONE guibg=NONE      guifg=gray
 hi Normal       cterm=NONE        ctermbg=NONE       ctermfg=NONE        gui=NONE guibg=NONE      guifg=NONE
-hi Pmenu        cterm=NONE        ctermbg=225        ctermfg=235         gui=NONE guibg=#3E4452   guifg=NONE
-hi PmenuSbar    cterm=NONE        ctermbg=238        ctermfg=NONE        gui=NONE guibg=#3B4048   guifg=NONE
-hi PmenuSel     cterm=NONE        ctermbg=39         ctermfg=235         gui=NONE guibg=#61AFEF   guifg=#282C34
-hi PmenuThumb   cterm=NONE        ctermbg=145        ctermfg=NONE        gui=NONE guibg=#ABB2BF   guifg=NONE
+hi Pmenu        cterm=NONE        ctermbg=white      ctermfg=235         gui=NONE guibg=#3E4452   guifg=NONE
+hi PmenuSbar    cterm=NONE        ctermbg=white      ctermfg=NONE        gui=NONE guibg=#3B4048   guifg=NONE
+hi PmenuSel     cterm=NONE        ctermbg=238        ctermfg=white       gui=NONE guibg=#61AFEF   guifg=#282C34
+hi PmenuThumb   cterm=NONE        ctermbg=238        ctermfg=NONE        gui=NONE guibg=#ABB2BF   guifg=NONE
 hi Search       cterm=NONE        ctermbg=yellow     ctermfg=black       gui=NONE guibg=Yellow    guifg=black
 hi SpellBad     cterm=NONE        ctermbg=red        ctermfg=black       gui=NONE guibg=red       guifg=black
 hi SpellCap     cterm=NONE        ctermbg=yellow     ctermfg=black       gui=NONE guibg=Yellow    guifg=black
