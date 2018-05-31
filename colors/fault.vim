@@ -13,7 +13,7 @@ let g:colors_name = "fault"
 hi ColorColumn  cterm=NONE        ctermbg=red        ctermfg=NONE        gui=NONE guibg=#33373f   guifg=NONE
 hi Comment      cterm=NONE        ctermbg=NONE       ctermfg=darkgray    gui=NONE guibg=NONE      guifg=#5c6370
 hi CursorLine   cterm=underline   ctermbg=NONE       ctermfg=NONE        gui=NONE guibg=#2C323C   guifg=NONE
-hi CursorLineNr cterm=NONE        ctermbg=NONE       ctermfg=yellow      gui=NONE guibg=NONE      guifg=white
+hi CursorLineNr cterm=NONE        ctermbg=NONE       ctermfg=red         gui=NONE guibg=NONE      guifg=white
 hi DiffAdd      cterm=NONE        ctermbg=green      ctermfg=black       gui=NONE guibg=#98C379   guifg=black
 hi DiffChange   cterm=NONE        ctermbg=yellow     ctermfg=black       gui=NONE guibg=#E5C07B   guifg=black
 hi DiffDelete   cterm=NONE        ctermbg=red        ctermfg=black       gui=NONE guibg=#E06C75   guifg=black
@@ -24,7 +24,7 @@ hi ErrorMsg     cterm=NONE        ctermbg=NONE       ctermfg=red         gui=NON
 hi FoldColumn   cterm=NONE        ctermbg=NONE       ctermfg=blue        gui=NONE guibg=NONE      guifg=#61AFEF
 hi Folded       cterm=NONE        ctermbg=NONE       ctermfg=gray        gui=NONE guibg=NONE      guifg=gray
 hi IncSearch    cterm=NONE        ctermbg=blue       ctermfg=232         gui=NONE guibg=#61afef   guifg=black
-hi LineNr       cterm=NONE        ctermbg=NONE       ctermfg=gray        gui=NONE guibg=NONE      guifg=gray
+hi LineNr       cterm=NONE        ctermbg=NONE       ctermfg=yellow      gui=NONE guibg=NONE      guifg=gray
 hi MatchParen   cterm=NONE        ctermbg=NONE       ctermfg=lightblue   gui=NONE guibg=NONE      guifg=lightblue
 hi ModeMsg      cterm=NONE        ctermbg=NONE       ctermfg=green       gui=NONE guibg=NONE      guifg=lightgreen
 hi MoreMsg      cterm=NONE        ctermbg=NONE       ctermfg=DarkGreen   gui=NONE guibg=NONE      guifg=SeaGreen
