@@ -25,7 +25,7 @@ hi FoldColumn   cterm=NONE        ctermbg=NONE       ctermfg=blue        gui=NON
 hi Folded       cterm=NONE        ctermbg=NONE       ctermfg=gray        gui=NONE guibg=NONE      guifg=gray
 hi IncSearch    cterm=NONE        ctermbg=blue       ctermfg=232         gui=NONE guibg=#61afef   guifg=black
 hi LineNr       cterm=NONE        ctermbg=NONE       ctermfg=yellow      gui=NONE guibg=NONE      guifg=gray
-hi MatchParen   cterm=NONE        ctermbg=NONE       ctermfg=lightblue   gui=NONE guibg=NONE      guifg=lightblue
+hi MatchParen   cterm=NONE        ctermbg=red        ctermfg=232         gui=NONE guibg=NONE      guifg=lightblue
 hi ModeMsg      cterm=NONE        ctermbg=NONE       ctermfg=green       gui=NONE guibg=NONE      guifg=lightgreen
 hi MoreMsg      cterm=NONE        ctermbg=NONE       ctermfg=DarkGreen   gui=NONE guibg=NONE      guifg=SeaGreen
 hi NonText      cterm=NONE        ctermbg=NONE       ctermfg=238         gui=NONE guibg=NONE      guifg=gray
