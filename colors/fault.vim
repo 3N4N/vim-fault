@@ -1,7 +1,13 @@
-" local syntax file - set colors on a per-machine basis:
-" vim: tw=0 ts=4 sw=4
+"               ______   ______     __  __     __         ______
+"              /\  ___\ /\  __ \   /\ \/\ \   /\ \       /\__  _\
+"              \ \  __\ \ \  __ \  \ \ \_\ \  \ \ \____  \/_/\ \/
+"               \ \_\    \ \_\ \_\  \ \_____\  \ \_____\    \ \_\
+"                \/_/     \/_/\/_/   \/_____/   \/_____/     \/_/
+"
+
+
 " Vim color file
-" Maintainer:   Nafid Ajmain Enan <3nan.ajmain@gmail.com>
+" Maintainer: Enan Ajmain <3nan.ajmain@gmail.com>
 
 hi clear
 set background=light
