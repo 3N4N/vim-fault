@@ -31,7 +31,7 @@ hi ErrorMsg       cterm=none        ctermbg=none       ctermfg=red
 hi FoldColumn     cterm=none        ctermbg=none       ctermfg=blue
 hi Folded         cterm=none        ctermbg=none       ctermfg=gray
 hi IncSearch      cterm=none        ctermbg=blue       ctermfg=232
-hi LineNr         cterm=none        ctermbg=none       ctermfg=gray
+hi LineNr         cterm=none        ctermbg=none       ctermfg=darkgray
 hi MatchParen     cterm=none        ctermbg=red        ctermfg=232
 hi ModeMsg        cterm=none        ctermbg=none       ctermfg=green
 hi MoreMsg        cterm=none        ctermbg=none       ctermfg=DarkGreen
