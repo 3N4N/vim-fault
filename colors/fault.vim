@@ -31,7 +31,7 @@ hi ErrorMsg       cterm=none        ctermbg=none       ctermfg=red
 hi FoldColumn     cterm=none        ctermbg=none       ctermfg=blue
 hi Folded         cterm=none        ctermbg=none       ctermfg=gray
 hi IncSearch      cterm=none        ctermbg=blue       ctermfg=232
-hi LineNr         cterm=none        ctermbg=none       ctermfg=yellow
+hi LineNr         cterm=none        ctermbg=none       ctermfg=gray
 hi MatchParen     cterm=none        ctermbg=red        ctermfg=232
 hi ModeMsg        cterm=none        ctermbg=none       ctermfg=green
 hi MoreMsg        cterm=none        ctermbg=none       ctermfg=DarkGreen
@@ -58,11 +58,11 @@ hi Comment        cterm=none        ctermbg=none       ctermfg=darkgray
 hi Constant       cterm=none        ctermbg=none       ctermfg=none
 hi Function       cterm=none        ctermbg=none       ctermfg=none
 hi Identifier     cterm=none        ctermbg=none       ctermfg=none
-hi PreProc        cterm=none        ctermbg=none       ctermfg=magenta
-hi Special        cterm=none        ctermbg=none       ctermfg=green
-hi Statement      cterm=none        ctermbg=none       ctermfg=red
-hi Type           cterm=none        ctermbg=none       ctermfg=green
-hi Underlined     cterm=underline   ctermbg=none       ctermfg=red
+hi PreProc        cterm=none        ctermbg=none       ctermfg=none
+hi Special        cterm=none        ctermbg=none       ctermfg=none
+hi Statement      cterm=none        ctermbg=none       ctermfg=none
+hi Type           cterm=none        ctermbg=none       ctermfg=none
+hi Underlined     cterm=underline   ctermbg=none       ctermfg=none
 
 " --------------------------------
 " Diff
