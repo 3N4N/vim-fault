@@ -39,8 +39,8 @@ hi NonText        cterm=none        ctermbg=none       ctermfg=238
 hi Normal         cterm=none        ctermbg=none       ctermfg=none
 hi Search         cterm=none        ctermbg=yellow     ctermfg=black
 hi SignColumn     cterm=none        ctermbg=none       ctermfg=none
-hi StatusLine     cterm=none        ctermbg=253        ctermfg=232
-hi StatusLineNC   cterm=none        ctermbg=253        ctermfg=232
+hi StatusLine     cterm=none        ctermbg=249        ctermfg=232
+hi StatusLineNC   cterm=none        ctermbg=239        ctermfg=253
 hi TabLine        cterm=none        ctermbg=253        ctermfg=black
 hi TabLineFill    cterm=none        ctermbg=253        ctermfg=black
 hi TabLineSel     cterm=none        ctermbg=none       ctermfg=white
