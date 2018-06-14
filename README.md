@@ -1,6 +1,14 @@
 # Fault
 ---
 
+## Story behind this great name
+
+I heavily believe that the default colorscheme in vim should be of very low
+contrast. But since that's not the case and most of the people don't have any
+problem with it, it seems that it's me who is the problem. That's why I named my
+personal colorscheme **fault**, a clever (at least in my view) wordplay on the
+faulty default of vim colorscheme.
+
 ## Wondering why another colorscheme?
 
 This is not a colorscheme. At least not for you to use yourself. Rather this is
