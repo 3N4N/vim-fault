@@ -28,3 +28,6 @@ colorscheme. (Unless, she/it is absolutely one of a kind)
   4. Start customizing the hell out of it.
   5. There, you built yourself a colorscheme.
 
+## Screenshot
+
+![screenshot](screenshot.jpg "screenshot")
