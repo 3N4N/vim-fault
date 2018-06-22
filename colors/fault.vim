@@ -78,9 +78,9 @@ hi Search         gui=none   guibg=#e5c07b   guifg=#282c34   cterm=none        c
 hi SpecialKey     gui=none   guibg=none      guifg=#5c6370   cterm=none        ctermbg=none     ctermfg=238
 hi StatusLine     gui=none   guibg=#4e4e4e   guifg=#abb2bf   cterm=none        ctermbg=249      ctermfg=232
 hi StatusLineNC   gui=none   guibg=#4e4e4e   guifg=#abb2bf   cterm=none        ctermbg=239      ctermfg=253
-hi TabLine        gui=none   guibg=#abb2bf   guifg=#282c34   cterm=none        ctermbg=253      ctermfg=black
-hi TabLineFill    gui=none   guibg=#abb2bf   guifg=#282c34   cterm=none        ctermbg=253      ctermfg=black
-hi TabLineSel     gui=none   guibg=none      guifg=#abb2bf   cterm=none        ctermbg=none     ctermfg=white
+hi TabLine        gui=none   guibg=#4e4e4e   guifg=#abb2bf   cterm=none        ctermbg=253      ctermfg=black
+hi TabLineFill    gui=none   guibg=#4e4e4e   guifg=#abb2bf   cterm=none        ctermbg=253      ctermfg=black
+hi TabLineSel     gui=none   guibg=#abb2bf   guifg=#282c34   cterm=none        ctermbg=none     ctermfg=white
 hi Title          gui=none   guibg=none      guifg=#c678dd   cterm=none        ctermbg=none     ctermfg=magenta
 hi Todo           gui=none   guibg=none      guifg=#e5c07b   cterm=none        ctermbg=none     ctermfg=yellow
 hi VertSplit      gui=none   guibg=none      guifg=gray      cterm=none        ctermbg=none     ctermfg=darkgray
