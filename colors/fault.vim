@@ -74,7 +74,7 @@ hi ModeMsg        gui=none   guibg=none      guifg=#98c379   cterm=none        c
 hi MoreMsg        gui=none   guibg=none      guifg=#98c379   cterm=none        ctermbg=none     ctermfg=DarkGreen
 hi NonText        gui=none   guibg=none      guifg=#5c6370   cterm=none        ctermbg=none     ctermfg=238
 hi Question       gui=none   guibg=none      guifg=#98c379   cterm=none        ctermbg=none     ctermfg=green
-hi Search         gui=none   guibg=#e5c07b   guifg=#282c34   cterm=none        ctermbg=yellow   ctermfg=black
+hi Search         gui=none   guibg=#d19a66   guifg=#282c34   cterm=none        ctermbg=yellow   ctermfg=black
 hi SpecialKey     gui=none   guibg=none      guifg=#5c6370   cterm=none        ctermbg=none     ctermfg=238
 hi StatusLine     gui=none   guibg=#4e4e4e   guifg=#abb2bf   cterm=none        ctermbg=249      ctermfg=232
 hi StatusLineNC   gui=none   guibg=#4e4e4e   guifg=#abb2bf   cterm=none        ctermbg=239      ctermfg=253
