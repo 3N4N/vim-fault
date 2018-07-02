@@ -69,7 +69,7 @@ hi FoldColumn     gui=none   guibg=none      guifg=#61afef   cterm=none        c
 hi Folded         gui=none   guibg=#4b5263   guifg=none      cterm=none        ctermbg=none     ctermfg=gray
 hi IncSearch      gui=none   guibg=#61afef   guifg=#282c34   cterm=none        ctermbg=blue     ctermfg=232
 hi LineNr         gui=none   guibg=none      guifg=#5c6370   cterm=none        ctermbg=none     ctermfg=darkgray
-hi MatchParen     gui=none   guibg=#e06c75   guifg=#282c34   cterm=none        ctermbg=red      ctermfg=232
+hi MatchParen     gui=none   guibg=none      guifg=#61afef   cterm=none        ctermbg=red      ctermfg=232
 hi ModeMsg        gui=none   guibg=none      guifg=#98c379   cterm=none        ctermbg=none     ctermfg=green
 hi MoreMsg        gui=none   guibg=none      guifg=#98c379   cterm=none        ctermbg=none     ctermfg=DarkGreen
 hi NonText        gui=none   guibg=none      guifg=#5c6370   cterm=none        ctermbg=none     ctermfg=238
@@ -84,9 +84,9 @@ hi TabLineSel     gui=none   guibg=#abb2bf   guifg=#282c34   cterm=none        c
 hi Title          gui=none   guibg=none      guifg=#c678dd   cterm=none        ctermbg=none     ctermfg=magenta
 hi Todo           gui=none   guibg=none      guifg=#e5c07b   cterm=none        ctermbg=none     ctermfg=yellow
 hi VertSplit      gui=none   guibg=none      guifg=gray      cterm=none        ctermbg=none     ctermfg=darkgray
-hi Visual         gui=none   guibg=#61afef   guifg=#282c34   cterm=none        ctermbg=blue     ctermfg=black
+hi Visual         gui=none   guibg=#abb2bf   guifg=#282c34   cterm=none        ctermbg=blue     ctermfg=black
 hi WarningMsg     gui=none   guibg=none      guifg=#e5c07b   cterm=none        ctermbg=none     ctermfg=yellow
-hi WildMenu       gui=none   guibg=none      guifg=#abb2bf   cterm=none        ctermbg=none     ctermfg=white
+hi WildMenu       gui=none   guibg=#abb2bf   guifg=#282c34   cterm=none        ctermbg=none     ctermfg=white
 
 hi clear Normal
 hi clear SignColumn
