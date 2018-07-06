@@ -58,35 +58,35 @@ let g:colors_name = "fault"
 " Editor settings
 " --------------------------------
 
-hi ColorColumn    gui=none   guibg=#2c323c   guifg=none      cterm=none        ctermbg=239      ctermfg=none
-hi CursorColumn   gui=none   guibg=none      guifg=none      cterm=none        ctermbg=none     ctermfg=none
-hi CursorLine     gui=none   guibg=none      guifg=none      cterm=underline   ctermbg=none     ctermfg=none
-hi CursorLineNr   gui=none   guibg=none      guifg=#e06c75   cterm=none        ctermbg=none     ctermfg=red
-hi Directory      gui=none   guibg=none      guifg=#61afef   cterm=none        ctermbg=none     ctermfg=blue
-hi Error          gui=none   guibg=#abb2bf   guifg=#282c34   cterm=none        ctermbg=white    ctermfg=black
-hi ErrorMsg       gui=none   guibg=none      guifg=#e06c75   cterm=none        ctermbg=none     ctermfg=red
-hi FoldColumn     gui=none   guibg=none      guifg=#61afef   cterm=none        ctermbg=none     ctermfg=blue
-hi Folded         gui=none   guibg=#4b5263   guifg=none      cterm=none        ctermbg=none     ctermfg=gray
-hi IncSearch      gui=none   guibg=#61afef   guifg=#282c34   cterm=none        ctermbg=blue     ctermfg=232
-hi LineNr         gui=none   guibg=none      guifg=#5c6370   cterm=none        ctermbg=none     ctermfg=darkgray
-hi MatchParen     gui=none   guibg=none      guifg=#61afef   cterm=none        ctermbg=red      ctermfg=232
-hi ModeMsg        gui=none   guibg=none      guifg=#98c379   cterm=none        ctermbg=none     ctermfg=green
-hi MoreMsg        gui=none   guibg=none      guifg=#98c379   cterm=none        ctermbg=none     ctermfg=DarkGreen
-hi NonText        gui=none   guibg=none      guifg=#5c6370   cterm=none        ctermbg=none     ctermfg=238
-hi Question       gui=none   guibg=none      guifg=#98c379   cterm=none        ctermbg=none     ctermfg=green
-hi Search         gui=none   guibg=#d19a66   guifg=#282c34   cterm=none        ctermbg=yellow   ctermfg=black
-hi SpecialKey     gui=none   guibg=none      guifg=#5c6370   cterm=none        ctermbg=none     ctermfg=238
-hi StatusLine     gui=none   guibg=#4e4e4e   guifg=#abb2bf   cterm=none        ctermbg=249      ctermfg=232
-hi StatusLineNC   gui=none   guibg=#4e4e4e   guifg=#abb2bf   cterm=none        ctermbg=239      ctermfg=253
-hi TabLine        gui=none   guibg=#4e4e4e   guifg=#abb2bf   cterm=none        ctermbg=253      ctermfg=black
-hi TabLineFill    gui=none   guibg=#4e4e4e   guifg=#abb2bf   cterm=none        ctermbg=253      ctermfg=black
-hi TabLineSel     gui=none   guibg=#abb2bf   guifg=#282c34   cterm=none        ctermbg=none     ctermfg=white
-hi Title          gui=none   guibg=none      guifg=#c678dd   cterm=none        ctermbg=none     ctermfg=magenta
-hi Todo           gui=none   guibg=none      guifg=#e5c07b   cterm=none        ctermbg=none     ctermfg=yellow
-hi VertSplit      gui=none   guibg=none      guifg=gray      cterm=none        ctermbg=none     ctermfg=darkgray
-hi Visual         gui=none   guibg=#abb2bf   guifg=#282c34   cterm=none        ctermbg=blue     ctermfg=black
-hi WarningMsg     gui=none   guibg=none      guifg=#e5c07b   cterm=none        ctermbg=none     ctermfg=yellow
-hi WildMenu       gui=none   guibg=#abb2bf   guifg=#282c34   cterm=none        ctermbg=none     ctermfg=white
+hi ColorColumn    gui=NONE   guibg=#2c323c   guifg=NONE      cterm=NONE        ctermbg=239      ctermfg=NONE
+hi CursorColumn   gui=NONE   guibg=NONE      guifg=NONE      cterm=NONE        ctermbg=NONE     ctermfg=NONE
+hi CursorLine     gui=NONE   guibg=NONE      guifg=NONE      cterm=underline   ctermbg=NONE     ctermfg=NONE
+hi CursorLineNr   gui=NONE   guibg=NONE      guifg=#e06c75   cterm=NONE        ctermbg=NONE     ctermfg=red
+hi Directory      gui=NONE   guibg=NONE      guifg=#61afef   cterm=NONE        ctermbg=NONE     ctermfg=blue
+hi Error          gui=NONE   guibg=#abb2bf   guifg=#282c34   cterm=NONE        ctermbg=white    ctermfg=black
+hi ErrorMsg       gui=NONE   guibg=NONE      guifg=#e06c75   cterm=NONE        ctermbg=NONE     ctermfg=red
+hi FoldColumn     gui=NONE   guibg=NONE      guifg=#61afef   cterm=NONE        ctermbg=NONE     ctermfg=blue
+hi Folded         gui=NONE   guibg=#4b5263   guifg=NONE      cterm=NONE        ctermbg=NONE     ctermfg=gray
+hi IncSearch      gui=NONE   guibg=#61afef   guifg=#282c34   cterm=NONE        ctermbg=blue     ctermfg=232
+hi LineNr         gui=NONE   guibg=NONE      guifg=#5c6370   cterm=NONE        ctermbg=NONE     ctermfg=darkgray
+hi MatchParen     gui=NONE   guibg=NONE      guifg=#61afef   cterm=NONE        ctermbg=red      ctermfg=232
+hi ModeMsg        gui=NONE   guibg=NONE      guifg=#98c379   cterm=NONE        ctermbg=NONE     ctermfg=green
+hi MoreMsg        gui=NONE   guibg=NONE      guifg=#98c379   cterm=NONE        ctermbg=NONE     ctermfg=DarkGreen
+hi NonText        gui=NONE   guibg=NONE      guifg=#5c6370   cterm=NONE        ctermbg=NONE     ctermfg=238
+hi Question       gui=NONE   guibg=NONE      guifg=#98c379   cterm=NONE        ctermbg=NONE     ctermfg=green
+hi Search         gui=NONE   guibg=#d19a66   guifg=#282c34   cterm=NONE        ctermbg=yellow   ctermfg=black
+hi SpecialKey     gui=NONE   guibg=NONE      guifg=#5c6370   cterm=NONE        ctermbg=NONE     ctermfg=238
+hi StatusLine     gui=NONE   guibg=#4e4e4e   guifg=#abb2bf   cterm=NONE        ctermbg=249      ctermfg=232
+hi StatusLineNC   gui=NONE   guibg=#4e4e4e   guifg=#abb2bf   cterm=NONE        ctermbg=239      ctermfg=253
+hi TabLine        gui=NONE   guibg=#4e4e4e   guifg=#abb2bf   cterm=NONE        ctermbg=253      ctermfg=black
+hi TabLineFill    gui=NONE   guibg=#4e4e4e   guifg=#abb2bf   cterm=NONE        ctermbg=253      ctermfg=black
+hi TabLineSel     gui=NONE   guibg=#abb2bf   guifg=#282c34   cterm=NONE        ctermbg=NONE     ctermfg=white
+hi Title          gui=NONE   guibg=NONE      guifg=#c678dd   cterm=NONE        ctermbg=NONE     ctermfg=magenta
+hi Todo           gui=NONE   guibg=NONE      guifg=#e5c07b   cterm=NONE        ctermbg=NONE     ctermfg=yellow
+hi VertSplit      gui=NONE   guibg=NONE      guifg=gray      cterm=NONE        ctermbg=NONE     ctermfg=darkgray
+hi Visual         gui=NONE   guibg=#abb2bf   guifg=#282c34   cterm=NONE        ctermbg=blue     ctermfg=black
+hi WarningMsg     gui=NONE   guibg=NONE      guifg=#e5c07b   cterm=NONE        ctermbg=NONE     ctermfg=yellow
+hi WildMenu       gui=NONE   guibg=#abb2bf   guifg=#282c34   cterm=NONE        ctermbg=NONE     ctermfg=white
 
 hi clear Normal
 hi clear SignColumn
@@ -95,8 +95,8 @@ hi clear SignColumn
 " Language constructs
 " --------------------------------
 
-hi Comment      gui=none        guibg=none   guifg=#5c6370   cterm=none        ctermbg=none   ctermfg=darkgray
-hi Underlined   gui=underline   guibg=none   guifg=none      cterm=underline   ctermbg=none   ctermfg=none
+hi Comment      gui=NONE        guibg=NONE   guifg=#5c6370   cterm=NONE        ctermbg=NONE   ctermfg=darkgray
+hi Underlined   gui=underline   guibg=NONE   guifg=NONE      cterm=underline   ctermbg=NONE   ctermfg=NONE
 
 hi clear Constant
 hi clear Function
@@ -109,35 +109,35 @@ hi clear Type
 " --------------------------------
 " Completion menu
 " --------------------------------
-hi Pmenu        gui=none   guibg=#3e4452   guifg=none      cterm=none   ctermbg=white   ctermfg=235
-hi PmenuSbar    gui=none   guibg=#3b4048   guifg=none      cterm=none   ctermbg=white   ctermfg=none
-hi PmenuSel     gui=none   guibg=#61afef   guifg=#282c34   cterm=none   ctermbg=238     ctermfg=white
-hi PmenuThumb   gui=none   guibg=#abb2bf   guifg=none      cterm=none   ctermbg=238     ctermfg=none
+hi Pmenu        gui=NONE   guibg=#3e4452   guifg=NONE      cterm=NONE   ctermbg=white   ctermfg=235
+hi PmenuSbar    gui=NONE   guibg=#3b4048   guifg=NONE      cterm=NONE   ctermbg=white   ctermfg=NONE
+hi PmenuSel     gui=NONE   guibg=#61afef   guifg=#282c34   cterm=NONE   ctermbg=238     ctermfg=white
+hi PmenuThumb   gui=NONE   guibg=#abb2bf   guifg=NONE      cterm=NONE   ctermbg=238     ctermfg=NONE
 
 " --------------------------------
 " Spelling
 " --------------------------------
-hi SpellBad     gui=underline   guibg=none   guifg=#e06c75   cterm=none   ctermbg=red      ctermfg=black
-hi SpellCap     gui=underline   guibg=none   guifg=#e5c07b   cterm=none   ctermbg=yellow   ctermfg=black
-hi SpellLocal   gui=underline   guibg=none   guifg=none      cterm=none   ctermbg=blue     ctermfg=black
-hi SpellRare    gui=underline   guibg=none   guifg=#61afef   cterm=none   ctermbg=red      ctermfg=black
+hi SpellBad     gui=underline   guibg=NONE   guifg=#e06c75   cterm=NONE   ctermbg=red      ctermfg=black
+hi SpellCap     gui=underline   guibg=NONE   guifg=#e5c07b   cterm=NONE   ctermbg=yellow   ctermfg=black
+hi SpellLocal   gui=underline   guibg=NONE   guifg=NONE      cterm=NONE   ctermbg=blue     ctermfg=black
+hi SpellRare    gui=underline   guibg=NONE   guifg=#61afef   cterm=NONE   ctermbg=red      ctermfg=black
 
 " --------------------------------
 " Diff
 " --------------------------------
 
-hi DiffAdd      gui=none   guibg=#98c379   guifg=black   cterm=none   ctermbg=green    ctermfg=black
-hi DiffChange   gui=none   guibg=#e5c07b   guifg=black   cterm=none   ctermbg=yellow   ctermfg=black
-hi DiffDelete   gui=none   guibg=#e06c75   guifg=black   cterm=none   ctermbg=red      ctermfg=black
-hi DiffText     gui=none   guibg=#61afef   guifg=black   cterm=none   ctermbg=blue     ctermfg=black
+hi DiffAdd      gui=NONE   guibg=#98c379   guifg=black   cterm=NONE   ctermbg=green    ctermfg=black
+hi DiffChange   gui=NONE   guibg=#e5c07b   guifg=black   cterm=NONE   ctermbg=yellow   ctermfg=black
+hi DiffDelete   gui=NONE   guibg=#e06c75   guifg=black   cterm=NONE   ctermbg=red      ctermfg=black
+hi DiffText     gui=NONE   guibg=#61afef   guifg=black   cterm=NONE   ctermbg=blue     ctermfg=black
 
 "---------------------------------
 " Gitgutter signs
 "---------------------------------
 
-hi GitGutterAdd            gui=none   guibg=none   guifg=#98c379   cterm=none   ctermbg=none   ctermfg=green
-hi GitGutterChange         gui=none   guibg=none   guifg=#e5c07b   cterm=none   ctermbg=none   ctermfg=yellow
-hi GitGutterDelete         gui=none   guibg=none   guifg=#e06c75   cterm=none   ctermbg=none   ctermfg=red
+hi GitGutterAdd            gui=NONE   guibg=NONE   guifg=#98c379   cterm=NONE   ctermbg=NONE   ctermfg=green
+hi GitGutterChange         gui=NONE   guibg=NONE   guifg=#e5c07b   cterm=NONE   ctermbg=NONE   ctermfg=yellow
+hi GitGutterDelete         gui=NONE   guibg=NONE   guifg=#e06c75   cterm=NONE   ctermbg=NONE   ctermfg=red
 hi link GitGutterChangeDelete GitGutterChange
 
 " --------------------------------
