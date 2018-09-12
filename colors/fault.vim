@@ -68,7 +68,7 @@ hi ErrorMsg       gui=NONE   guibg=NONE      guifg=#e06c75
 hi FoldColumn     gui=NONE   guibg=NONE      guifg=#61afef
 hi Folded         gui=NONE   guibg=#4b5263   guifg=NONE
 hi IncSearch      gui=NONE   guibg=#61afef   guifg=#282c34
-hi LineNr         gui=NONE   guibg=NONE      guifg=#5c6370
+hi LineNr         gui=NONE   guibg=NONE      guifg=#d19a66
 hi MatchParen     gui=NONE   guibg=NONE      guifg=#61afef
 hi ModeMsg        gui=NONE   guibg=NONE      guifg=#98c379
 hi MoreMsg        gui=NONE   guibg=NONE      guifg=#98c379
@@ -95,7 +95,7 @@ hi clear SignColumn
 " Language constructs
 " --------------------------------
 
-hi Comment      gui=NONE        guibg=NONE   guifg=#5c6370
+hi Comment      gui=NONE        guibg=NONE   guifg=#56b6c2
 hi Underlined   gui=underline   guibg=NONE   guifg=NONE
 
 hi clear Constant
