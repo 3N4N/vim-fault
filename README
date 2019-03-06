@@ -1,0 +1,32 @@
+vim-fault
+=========
+vim-fault is a minimalist colorscheme for vim and neovim.
+
+
+Installation
+------------
+For vim:
+
+	mkdir -p ~/.vim/colors
+	git clone https://github.com/enanajmain/vim-fault.git /tmp/vim-fault
+	cp /tmp/vim-fault/colors/fault.vim ~/.vim/colors
+
+For neovim:
+
+	mkdir -p ~/.config/nvim/colors
+	git clone https://github.com/enanajmain/vim-fault.git /tmp/vim-fault
+	cp /tmp/vim-fault/colors/fault.vim ~/.config/nvim/colors
+
+Or use your favourite plugin manager.
+
+
+Using vim-fault
+---------------
+After installation, run vim or neovim and enter the following command:
+
+	:colorscheme fault
+
+In order to permanently change the colorscheme to vim-fault, append the following
+to your $MYVIMRC:
+
+	colorscheme fault
